@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.ipynb_checkpoints/
+
+# MATLAB
+*.asv
+*.mex*
+*.slprj/
+
+# Data & Models
+data/
+*.csv
+*.zip
+*.mat
+*.h5
+*.pkl
+*.pth
+.env 
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+#Virtual_Environment
+
+venv/
