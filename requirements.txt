@@ -1,7 +1,16 @@
 fastapi
 uvicorn
-torch
 tensorflow
 numpy
 pandas
+scipy
+pillow
+python-dotenv
+requests
+sentinelhub
 streamlit
+matplotlib
+folium
+streamlit-folium
+streamlit-js-eval
+geopy
